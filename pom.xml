@@ -67,7 +67,7 @@
 		<hsqldb.version>2.5.0</hsqldb.version>
 		<nexu.version>1.22</nexu.version>
 
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<licenses>
